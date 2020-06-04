@@ -4,11 +4,11 @@ A 200 word RPG about being pink and making friends
 
 3 to 6 players
 
-One player is the Blonde everyone else plays the Harpies. A harpy opens the first scene as director. After a scene is closed the next harpy becomes director and so on until no more harpies remain. 
+One player is the Blonde everyone else plays Harpies. A harpy opens the first scene as director. After a scene is closed the next harpy becomes director and so on until no harpies remain. 
 
 ## THE BLONDE
 
-Your principles:
+Principles:
 
 - Act authentically pink
 - Be positive and optimistic
@@ -21,20 +21,20 @@ Special actions:
 
 ## HARPIES
 
-Your principles:
+Principles:
 
 - Suppress your true nature
 - Prove your superiority
 - Uphold decorum
 
-Your reactions:
+Reactions:
 
 - Obstruct her progress
 - Introduce minor challenges
 
 When the Blonde acts BLONDE:
 
-- Ridicule/Denigrate the Blonde
+- Ridicule or denigrate the Blonde
 - Offer backhanded praise
 - Exploit her obvious shortcomings
 - If the Blonde acted BLONDE twice within a scene: End it and introduce a greater challenge
@@ -44,14 +44,14 @@ When the Blonde acts LEGAL:
 - Ineffectually denigrate her 
 - Lash out spitefully
 - Self-sabotage through jealousy
-- If the Blonde acted LEGAL twice within a scene: End it and become her friend
+- If the Blonde acted LEGAL twice within a scene: End it and become her Friend
 
-Harpies may react in any order during a scene.
+Harpy reactions may be skipped and in any order during a scene.
 
 ## FRIENDS
 
-Your principles:
+Principles:
 
-- The Blonde's principles
+- Be positive and optimistic
 - Be a good friend to the Blonde
 - Discover and express your true self
