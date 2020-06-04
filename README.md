@@ -44,7 +44,7 @@ When the Blonde acts LEGAL:
 - Ineffectually denigrate her 
 - Lash out spitefully
 - Self-sabotage through jealousy
-- If the Blonde acted LEGAL twice within a scene: End it and become her friend.
+- If the Blonde acted LEGAL twice within a scene: End it and become her friend
 
 Harpies may react in any order during a scene.
 
