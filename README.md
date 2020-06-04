@@ -2,7 +2,7 @@
 
 3 to 6 players
 
-One player is the Blonde, everyone else plays Harpies. A harpy opens the first scene as director. After a scene is closed the next harpy becomes director and so on until no harpies remain. 
+One player is the Blonde, everyone else plays Harpies. A harpy opens the first scene as director. Once it ends the next harpy becomes director and so on until no harpies remain. 
 
 ## THE BLONDE
 
@@ -52,4 +52,5 @@ Principles:
 
 - Discover and express your true self
 - Be positive and optimistic
-- Be a good and supportive friend
+- Be a supportive friend
+- Undo your past misdeeds
