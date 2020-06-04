@@ -2,7 +2,7 @@
 
 3 to 6 players
 
-One player is the Blonde, everyone else plays Harpies. A harpy opens the first scene as director. Once it ends the next harpy becomes director and so on until no harpies remain. 
+One player is the Blonde, everyone else plays Harpies. A harpy opens the first scene as director. Once it ends the next Harpy becomes director and so on until no Harpies remain. 
 
 ## THE BLONDE
 
@@ -28,7 +28,7 @@ Principles:
 Reactions:
 
 - Obstruct her progress
-- Introduce minor challenges
+- Introduce minor challenge or complication
 
 When the Blonde acts BLONDE:
 
@@ -39,7 +39,7 @@ When the Blonde acts BLONDE:
 
 When the Blonde acts LEGAL:
 
-- Ineffectually denigrate her 
+- Make a flustered retreat
 - Lash out spitefully
 - Self-sabotage through jealousy
 - If the Blonde acted LEGAL twice within a scene: End it and become her Friend
@@ -51,6 +51,5 @@ Harpies can react in any order or skip reactions during a scene.
 Principles:
 
 - Discover and express your true self
-- Be positive and optimistic
-- Be a supportive friend
+- Be supportive and optimistic
 - Undo your past misdeeds
